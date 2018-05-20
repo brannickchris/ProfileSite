@@ -30,12 +30,14 @@ a:link {
     padding-top: 35px;
     grid-template-columns: 1fr 1fr 1fr;
     width: auto;
+    margin-bottom: 20px;
 
 }
 
 .namegrid > div {
     grid-column-start: 2;
     text-align: center;
+    
 
 }
 
